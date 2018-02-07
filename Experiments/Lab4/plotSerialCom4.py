@@ -1,9 +1,9 @@
-/* Python Script
- * Course : CS-684
- * Lab 4 : XY Plot from UART data
- * Submitted By: Abhishek Pal: Roll# 173074015
- *			  Anil Garg : Roll# 173074018
- */
+# Python Script
+# Course : CS-684
+# Lab 4 : XY Plot from UART data
+# Submitted By: Abhishek Pal: Roll# 173074015
+#			  Anil Garg : Roll# 173074018
+#
 
 # import time
 import serial
